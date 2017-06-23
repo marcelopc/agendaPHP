@@ -1,0 +1,23 @@
+.form-login{
+  width: 300px;
+  padding-top: 20px;
+  padding-left: 35%;
+}
+.register{
+  width: 300px;
+}
+.form-control{
+  width: 300px;
+}
+div .pad{
+  padding-left: 100px;
+}
+div .padSub{
+  padding-left: 200px;
+}
+.h5pad{
+  padding-left: 400px;
+}
+.alert-danger{
+  width: 300px;
+}
